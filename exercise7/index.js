@@ -1,0 +1,14 @@
+var num1 = 6;
+var num2 = 2;
+var res = 0;
+res = num1 + num2;
+console.log("addition       :      6 + 2 = " + res);
+num1 = 10;
+res = num1 - num2;
+console.log("subtraction    :     10 - 2 = " + res);
+num1 = 4;
+res = num1 * num2;
+console.log("multiplication :      4 * 2 = " + res);
+num1 = 16;
+res = num1 / num2;
+console.log("division       :     16 / 2 = " + res);
